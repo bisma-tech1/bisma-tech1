@@ -67,3 +67,8 @@ I post daily updates about my SOC Analyst preparation. Check out my journey here
 - 💬 Ask me about: **Linux Basics or Networking**
 - 📫 Reach me: **Your Professional Email Here**
 - 
+### 🛠️ Technical Arsenal
+![Linux](https://shields.io)
+![Bash](https://shields.io)
+![Python](https://shields.io)
+![Wireshark](https://shields.io)
